@@ -1,0 +1,123 @@
+nav1{ text-align:right;
+    padding-right: 20px;
+    display: flex;
+    height: 40px;
+    justify-content: space-between;
+    text-align: right;
+    padding: 10px;
+}
+
+.caracteristica{
+    padding-left: 850px;
+}
+
+.juegos{
+    padding-left: 20px;
+}
+
+.blog{
+    padding-left: 20px;
+}
+
+.soporte{
+    padding-left: 20px;
+}
+
+ul{list-style: none;}
+
+.head1{line-height: 25px;
+background-color: rgba(18, 220, 203, 0.545);
+justify-content: space-between;
+align-items: center;
+}
+
+.head1 img{
+    margin-left: 10px;
+    margin-top: 10px;
+
+
+}
+.logo1{padding-top: 20px;}
+a:link{text-decoration: none;}
+
+.p2{text-align: center;
+    justify-content: space-between
+}
+
+.head2{
+    background-color: rgba(237, 250, 251, 0.532);
+    text-align: left;
+    }
+
+A:visited{color: rgba(23, 23, 23, 0.664);}
+
+.p3{
+    text-align: right;
+}
+
+.p4{padding-top: 30px;
+padding-left: 30px;
+
+}
+
+
+.primer-img {
+padding-left: 40px;
+
+}
+
+.p5{padding-top: 20px;
+    padding-left: 35px;
+    padding-bottom: 10px;
+}
+
+.p6{background-color: lightskyblue;
+
+
+}
+
+ul {
+    display: inline-block ;
+}
+
+.p7{
+    padding-left: 40px;
+}
+
+.p8{
+    padding-left: 300px;
+}
+
+.p9{
+    padding-left: 300px;
+}
+
+.p10 {
+    font-size: 20px;
+    float: left;
+    text-align: left;
+}
+
+.img-perfil{
+    padding: 25px;
+    float: right;
+}
+.perfil{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    
+}
+
+.hola{
+    float: left;
+}
+
+.hola1{
+ float: center;
+ padding-left: 420px;
+}
+
+.footer22 {
+    padding: 5px;
+}
